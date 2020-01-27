@@ -1,0 +1,8 @@
+{
+  "buytogether": {
+    "component": "BuyTogether"
+  },
+  "store.product.top": {
+    "allowed": ["buytogether"]
+  }
+}
